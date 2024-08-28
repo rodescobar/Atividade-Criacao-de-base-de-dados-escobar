@@ -1,0 +1,4 @@
+1) Adicionar na tabela pedidos, o valor do aluguel e um campo com o status do pagamento
+Status irá armazenar o "retorno" do pagamentoPago
+cancelado
+Aguardando
